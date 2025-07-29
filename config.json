@@ -11,34 +11,33 @@
       "name": "黑木耳",
       "detail": "https://heimuer.tv"
     },
-    "ruyi": {
-      "api": "https://cj.rycjapi.com/api.php/provide/vod",
-      "name": "如意资源"
+    "moduzy": {
+      "api": "https://www.mdzyapi.com/api.php/provide/vod",
+      "name": "魔都资源"
+    },
+    "ffzy": {
+      "api": "http://api.ffzyapi.com/api.php/provide/vod",
+      "name": "非凡资源"
+    },
+    "ikun": {
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱坤资源"
     },
     "bfzy": {
       "api": "https://bfzyapi.com/api.php/provide/vod",
-      "name": "暴风资源"
+      "name": "暴风资源",
     },
-    "tyyszy": {
-      "api": "https://tyyszy.com/api.php/provide/vod",
-      "name": "天涯资源"
-    },
-    "ffzy": {
-      "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视",
-      "detail": "http://ffzy5.tv"
-    },
-    "zy360": {
-      "api": "https://360zy.com/api.php/provide/vod",
-      "name": "360资源"
+    "slzy": {
+      "api": "https://suoniapi.com/api.php/provide/vod",
+      "name": "索尼资源"
     },
     "maotaizy": {
       "api": "https://caiji.maotaizy.cc/api.php/provide/vod",
       "name": "茅台资源"
     },
-    "wolong": {
-      "api": "https://wolongzyw.com/api.php/provide/vod",
-      "name": "卧龙资源"
+    "hmer": {
+      "api": "https://json02.heimuer.xyz/api.php/provide/vod",
+      "name": "黑木耳资源"
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
@@ -53,9 +52,9 @@
       "api": "https://mozhuazy.com/api.php/provide/vod",
       "name": "魔爪资源"
     },
-    "mdzy": {
-      "api": "https://www.mdzyapi.com/api.php/provide/vod",
-      "name": "魔都资源"
+    "tpzy": {
+      "api": "https://taopianapi.com/cjapi/sda/vod",
+      "name": "淘片资源"
     },
     "zuid": {
       "api": "https://api.zuidapi.com/api.php/provide/vod",
@@ -73,9 +72,9 @@
       "api": "https://wwzy.tv/api.php/provide/vod",
       "name": "旺旺短剧"
     },
-    "ikun": {
-      "api": "https://ikunzyapi.com/api.php/provide/vod",
-      "name": "iKun资源"
+    "nnzy": {
+      "api": "https://api.niuniuzy.me/api.php/provide/vod",
+      "name": "牛牛资源"
     },
     "lzi": {
       "api": "https://cj.lziapi.com/api.php/provide/vod",
